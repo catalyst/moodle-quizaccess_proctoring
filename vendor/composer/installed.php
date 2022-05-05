@@ -20,24 +20,6 @@
       ),
       'reference' => NULL,
     ),
-    'aws/aws-sdk-php' => 
-    array (
-      'pretty_version' => '3.185.5',
-      'version' => '3.185.5.0',
-      'aliases' => 
-      array (
-      ),
-      'reference' => '9b7849c4c9f2aaa9c5cab8323b450dd8b2c31d0f',
-    ),
-    'guzzlehttp/guzzle' => 
-    array (
-      'pretty_version' => '7.3.0',
-      'version' => '7.3.0.0',
-      'aliases' => 
-      array (
-      ),
-      'reference' => '7008573787b430c1c1f650e3722d9bba59967628',
-    ),
     'guzzlehttp/promises' => 
     array (
       'pretty_version' => '1.4.1',
